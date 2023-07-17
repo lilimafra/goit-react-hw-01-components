@@ -21,14 +21,14 @@
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .stats {
   list-style: none;
   display: flex;
   justify-content: center;
-  background-color: var(--white);
+  background-color: #ffff;
 
   padding-left: 0;
   margin-top: 15px;
@@ -54,7 +54,7 @@
 .name {
   font-weight: 700;
   font-size: 20px;
-  color: var(--color-text-dark);
+  color: #262b31;
   line-height: 1.14;
 }
 
